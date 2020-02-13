@@ -8,8 +8,8 @@ demo ulr will be published soon
 TODO
 - [x] Create a nuxt project
 - [x] Add Bootstrap
-- [ ] Add Firestore
-- [ ] Add Authentication and protect routes
+- [x] Add Firestore
+- [x] Add Authentication and protect routes
 - [ ] Create static pages ( About, Privacy Policy etc)
 - [ ] more ...
 
